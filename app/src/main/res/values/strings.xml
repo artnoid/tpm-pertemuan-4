@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktikum</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="HeroesProfile">Detail Pahlawan</string>
+    <string name="FragmentProfile">Profile</string>
+    <string name="FragmentHero">Pahlawan</string>
+</resources>
